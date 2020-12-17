@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JeeSite4-master.iml" filepath="$PROJECT_DIR$/.idea/JeeSite4-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JeeSite4-master/common/jeesite-common.iml" filepath="$PROJECT_DIR$/JeeSite4-master/common/jeesite-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JeeSite4-master/modules/core/jeesite-module-core.iml" filepath="$PROJECT_DIR$/JeeSite4-master/modules/core/jeesite-module-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JeeSite4-master/modules/template/jeesite-module-template.iml" filepath="$PROJECT_DIR$/JeeSite4-master/modules/template/jeesite-module-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JeeSite4-master/parent/jeesite-parent.iml" filepath="$PROJECT_DIR$/JeeSite4-master/parent/jeesite-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JeeSite4-master/root/jeesite-root.iml" filepath="$PROJECT_DIR$/JeeSite4-master/root/jeesite-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JeeSite4-master/web/jeesite-web.iml" filepath="$PROJECT_DIR$/JeeSite4-master/web/jeesite-web.iml" />
+    </modules>
+  </component>
+</project>
